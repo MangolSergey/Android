@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Lab6</string>
+    <string name="animation">Animation!</string>
+    <string name="rotateclock">RotateClock</string>
+    <string name="todo">TODO</string>
+    <string name="rotateanticlock">RotateAntiClock</string>
+</resources>
