@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Lab2</string>
+    <string name="ok">OK</string>
+    <string name="name">Name</string>
+    <string name="password">password</string>
+    <string name="please_write_follow">Please write follow</string>
+</resources>
